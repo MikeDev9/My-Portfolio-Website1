@@ -245,6 +245,7 @@ p {
 #hero h1 span {
 	position: absolute;
 	top: 0;
+	font-weight: 900;
 	left: 0;
 	height: 100%;
 	width: 0;
