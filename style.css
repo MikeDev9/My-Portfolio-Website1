@@ -458,7 +458,7 @@ p {
 	top: 19px;
 	height: 98%;
 	width: 98%;
-	border: 7px solid crimson;
+	border: 7px solid rgb(173, 108, 24);
 	z-index: -1;
 }
 /* End About Section */
@@ -649,7 +649,7 @@ p {
 		top: 34px;
 		height: 98%;
 		width: 98%;
-		border: 10px solid crimson;
+		border: 10px solid rgb(173, 108, 24);
         
 	}
 	#about .col-right {
